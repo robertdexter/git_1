@@ -18,4 +18,4 @@ else:
     {3}.columns = self.mapper.panda_column_names[{1}].replace("'",'').split(',')
 self.mapper.manage_dates({5}, {3})
 
-ssd
+ssx
